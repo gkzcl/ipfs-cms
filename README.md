@@ -1,3 +1,6 @@
+# ipfs-cms
+cms based on ipfs
+
 ##跨域调用
 ipfs config --json API.HTTPHeaders.Access-Control-Allow-Origin  '["*"]'
 ipfs config --json API.HTTPHeaders.Access-Control-Allow-Methods '["PUT", "POST", "GET"]'
